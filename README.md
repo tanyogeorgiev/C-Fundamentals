@@ -1,2 +1,2 @@
 # C-Fundamentals
-SoftUni C# Fundamentals Module
+C# Fundamentals Module @ SoftUni 
