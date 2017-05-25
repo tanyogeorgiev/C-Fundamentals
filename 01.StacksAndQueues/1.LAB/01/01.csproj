@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{30F861A6-F761-49F8-904C-30F792149AE3}</ProjectGuid>
+    <ProjectGuid>{B1A90F62-E293-4814-B939-F58F0138E7C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StacksAndQueuesLAB</RootNamespace>
-    <AssemblyName>StacksAndQueuesLAB</AssemblyName>
+    <RootNamespace>_01</RootNamespace>
+    <AssemblyName>01</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,14 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Startup.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

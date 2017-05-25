@@ -4,16 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StacksAndQueuesLAB
+namespace _01
 {
-    class Startup
-
+    class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-
-
-
         }
     }
 }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StacksAndQueuesLAB")]
+[assembly: AssemblyTitle("01")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("StacksAndQueuesLAB")]
+[assembly: AssemblyProduct("01")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("30f861a6-f761-49f8-904c-30f792149ae3")]
+[assembly: Guid("b1a90f62-e293-4814-b939-f58f0138e7c2")]
 
 // Version information for an assembly consists of the following four values:
 //
