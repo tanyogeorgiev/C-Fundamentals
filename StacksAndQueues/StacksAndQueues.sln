@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksAndQueuesLAB", "StacksAndQueuesLAB\StacksAndQueuesLAB.csproj", "{30F861A6-F761-49F8-904C-30F792149AE3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.LAB", "1.LAB", "{1D0A725F-A874-413F-A6F0-2658C6573E7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.EXER", "2.EXER", "{A8F16265-4F57-4B70-8E9A-A00FDC62A1F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30F861A6-F761-49F8-904C-30F792149AE3} = {1D0A725F-A874-413F-A6F0-2658C6573E7D}
 	EndGlobalSection
 EndGlobal

@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace StacksAndQueuesLAB
 {
-    class Program
+    class Startup
+
     {
-        static void Main(string[] args)
+        static void Main()
         {
+
+
+
         }
     }
 }
