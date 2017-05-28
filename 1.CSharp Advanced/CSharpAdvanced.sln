@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.EXER", "2.EXER", "{5C35402E-E6F8-4F19-86E4-07CB173F2533}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerProblems", "2.EXER\ExerProblems\ExerProblems.csproj", "{F163AE8E-41F6-49C5-86E7-F68D82BD63A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerProblems", "2.StacksAndQueuesEXER\ExerProblems\ExerProblems.csproj", "{F163AE8E-41F6-49C5-86E7-F68D82BD63A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.LAB", "1.LAB", "{5D6F795D-26B7-479B-B6E1-C0D3CC34D57C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabProblems", "1.LAB\LabProblems\LabProblems.csproj", "{0F2612E7-F2FB-475C-BB2A-C6A6D11DF758}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabProblems", "1.StacksAndQueuesLAB\LabProblems\LabProblems.csproj", "{0F2612E7-F2FB-475C-BB2A-C6A6D11DF758}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
