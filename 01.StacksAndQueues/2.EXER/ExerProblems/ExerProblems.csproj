@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6CD65D3D-B766-4EC9-8A8B-FF36ACF83A8F}</ProjectGuid>
+    <ProjectGuid>{F163AE8E-41F6-49C5-86E7-F68D82BD63A3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ExerProblems</RootNamespace>
-    <AssemblyName>ExerProblems</AssemblyName>
+    <RootNamespace>LabProblems</RootNamespace>
+    <AssemblyName>LabProblems</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,8 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="_03MaximumElement.cs" />
+    <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_01ReverseNumbers.cs" />
+    <Compile Include="_02BasicStackOperation.cs" />
+    <Compile Include="_05SequenceWithQueue.cs" />
+    <Compile Include="_06TruckTour.cs" />
+    <Compile Include="_07BalancedParenthesis.cs" />
+    <Compile Include="_04BasicQueueOperations.cs" />
+    <Compile Include="_08RecursiveFibonacci.cs" />
+    <Compile Include="_09FibonacciStack.cs" />
+    <Compile Include="_10SampleTextEditor.cs" />
+    <Compile Include="_11PoisonousPlants.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

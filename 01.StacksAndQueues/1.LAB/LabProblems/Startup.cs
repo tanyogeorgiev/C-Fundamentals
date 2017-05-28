@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerProblems
+namespace LabProblems
 {
-    class Program
+    class Startup
     {
         static void Main(string[] args)
         {

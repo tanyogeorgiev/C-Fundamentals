@@ -1,10 +1,10 @@
-﻿using System;
+﻿sing System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LabProblems
+namespace ConsoleApp1
 {
     class Program
     {
