@@ -44,6 +44,12 @@
   <ItemGroup>
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_01ReverseStrings.cs" />
+    <Compile Include="_02SimpleCalculator.cs" />
+    <Compile Include="_03DecimalToBinaryConverter.cs" />
+    <Compile Include="_04MatchingBrackets.cs" />
+    <Compile Include="_05HotPotato.cs" />
+    <Compile Include="_06MathPotato.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
