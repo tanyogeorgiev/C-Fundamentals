@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.EXER", "2.EXER", "{5C35402E-E6F8-4F19-86E4-07CB173F2533}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.StacksAndQueuesEXER", "02.StacksAndQueuesEXER", "{5C35402E-E6F8-4F19-86E4-07CB173F2533}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerProblems", "2.StacksAndQueuesEXER\ExerProblems\ExerProblems.csproj", "{F163AE8E-41F6-49C5-86E7-F68D82BD63A3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.LAB", "1.LAB", "{5D6F795D-26B7-479B-B6E1-C0D3CC34D57C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.StacksAndQueuesLAB", "01.StacksAndQueuesLAB", "{5D6F795D-26B7-479B-B6E1-C0D3CC34D57C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabProblems", "1.StacksAndQueuesLAB\LabProblems\LabProblems.csproj", "{0F2612E7-F2FB-475C-BB2A-C6A6D11DF758}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.SetsAndDictionariesLAB", "03.SetsAndDictionariesLAB", "{8170C862-3F0B-4683-9F63-4B727E7DC5C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabProblems", "03.SetsAndDictionariesLAB\LabProblems\LabProblems.csproj", "{90D6274B-E836-4F74-B451-CFA7D83A79ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.SetsAndDictionariesEXER", "04.SetsAndDictionariesEXER", "{5CC72870-6BE8-4D99-BC1D-3A430114BDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerProblems", "04.SetsAndDictionariesEXER\ExerProblems\ExerProblems.csproj", "{C554C5C7-EB4C-44E7-8C8D-FCF2B1F58F13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +33,14 @@ Global
 		{0F2612E7-F2FB-475C-BB2A-C6A6D11DF758}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F2612E7-F2FB-475C-BB2A-C6A6D11DF758}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F2612E7-F2FB-475C-BB2A-C6A6D11DF758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D6274B-E836-4F74-B451-CFA7D83A79ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D6274B-E836-4F74-B451-CFA7D83A79ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D6274B-E836-4F74-B451-CFA7D83A79ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D6274B-E836-4F74-B451-CFA7D83A79ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C554C5C7-EB4C-44E7-8C8D-FCF2B1F58F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C554C5C7-EB4C-44E7-8C8D-FCF2B1F58F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C554C5C7-EB4C-44E7-8C8D-FCF2B1F58F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C554C5C7-EB4C-44E7-8C8D-FCF2B1F58F13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +48,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F163AE8E-41F6-49C5-86E7-F68D82BD63A3} = {5C35402E-E6F8-4F19-86E4-07CB173F2533}
 		{0F2612E7-F2FB-475C-BB2A-C6A6D11DF758} = {5D6F795D-26B7-479B-B6E1-C0D3CC34D57C}
+		{90D6274B-E836-4F74-B451-CFA7D83A79ED} = {8170C862-3F0B-4683-9F63-4B727E7DC5C9}
+		{C554C5C7-EB4C-44E7-8C8D-FCF2B1F58F13} = {5CC72870-6BE8-4D99-BC1D-3A430114BDC3}
 	EndGlobalSection
 EndGlobal
