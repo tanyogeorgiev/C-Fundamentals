@@ -10,6 +10,11 @@ namespace LabProblems
     {
         static void Main(string[] args)
         {
+
+            
+
+
+
         }
     }
 }
