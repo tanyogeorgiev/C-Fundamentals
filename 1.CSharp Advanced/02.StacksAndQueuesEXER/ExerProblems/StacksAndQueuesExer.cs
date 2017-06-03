@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabProblems
 {
-    class Startup
+    class StacksAndQueuesExer
     {
 
 
