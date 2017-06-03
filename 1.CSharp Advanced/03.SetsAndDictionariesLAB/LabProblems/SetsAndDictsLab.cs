@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabProblems
 {
-    class Program
+    class SetsAndDictsLab
     {
         static void Main(string[] args)
         {
