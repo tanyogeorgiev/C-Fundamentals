@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabProblems
 {
-    class Startup
+    class StacksAndQueuesLab
     {
         static void Main(string[] args)
         {
@@ -19,6 +19,8 @@ namespace LabProblems
             ////_06MathPotato
             //var a = new _06MathPotato();
             //a.Run();
+
+           
         }
     }
 }
