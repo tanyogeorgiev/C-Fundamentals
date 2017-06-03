@@ -42,8 +42,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="SetsAmdDictsExer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_01UniqueUsernames.cs" />
+    <Compile Include="_02SetsofElements.cs" />
+    <Compile Include="_03PeriodicTable.cs" />
+    <Compile Include="_04CountSymbols.cs" />
+    <Compile Include="_05Phonebbok.cs" />
+    <Compile Include="_06MinnerTask.cs" />
+    <Compile Include="_07FixEmails.cs" />
+    <Compile Include="_08HandsOfCards.cs" />
+    <Compile Include="_09UserLogs.cs" />
+    <Compile Include="_10PopulationCounter.cs" />
+    <Compile Include="_11LogsAggregator.cs" />
+    <Compile Include="_12LegendaryFarming.cs" />
+    <Compile Include="_13SrabskoUnleashed.cs" />
+    <Compile Include="_14DragonArmy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
