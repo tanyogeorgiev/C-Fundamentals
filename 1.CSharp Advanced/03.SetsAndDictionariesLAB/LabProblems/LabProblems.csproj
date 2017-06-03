@@ -44,6 +44,10 @@
   <ItemGroup>
     <Compile Include="SetsAndDictsLab.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_01ParkingLot.cs" />
+    <Compile Include="_02SoftUniParty.cs" />
+    <Compile Include="_03CountSameValuesInArray.cs" />
+    <Compile Include="_04AcademyGraduation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
